@@ -1,6 +1,6 @@
 # Self-introspection
 Self-introspection should be practiced on a daily basis <br>
-曾子曰：“吾日三省吾身,为人谋而不忠乎？ 与朋友交而不信乎？ 传不习乎？” 
+> 曾子曰：“吾日三省吾身,为人谋而不忠乎？ 与朋友交而不信乎？ 传不习乎？” 
 
 # 个人信息管理平台和软件分工
 ## 笔记
@@ -112,3 +112,5 @@ Self-introspection should be practiced on a daily basis <br>
 - 手机闹铃：更加重要临时要提醒的
 - 手环：起床（不影响他人），double confirm
 
+# Changelog
+- V1.0-20190319：初稿
