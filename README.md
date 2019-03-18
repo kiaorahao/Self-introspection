@@ -9,9 +9,9 @@ Self-introspection should be practiced on a daily basis <br>
 #### 1. 特点
 - 项目协作：
   - 基于学习项目驱动的，信分课、改稿件；
-  - 基于事件驱动的，诉讼官司
+  - 基于事件驱动的，诉讼官司。
 - 需要重度使用：电脑端
-- 可以利用github本身产品特性
+- 可以利用github本身产品特性:
   - 版本追踪；
   - issues灵活跟帖梳理结构；
   - wiki极其方便的排版功能；
