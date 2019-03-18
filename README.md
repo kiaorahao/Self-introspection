@@ -8,7 +8,7 @@ Self-introspection should be practiced on a daily basis
 - 项目协作：
   - 基于学习项目驱动的，信分课、改稿件；
   - 基于事件驱动的，诉讼官司
-- 需要重度使用：电脑使用的
+- 需要重度使用：电脑端
 - 可以利用github本身产品特性
   - 版本追踪；
   - issues灵活跟帖梳理结构；
@@ -19,15 +19,38 @@ Self-introspection should be practiced on a daily basis
   - 最后，自己的工作量在github上一览无余。
   
 #### 2. 应用场景  
-- 反省日记：周报、月报、季报
-- 项目管理：利用Project看板系统，进行统筹管理、进度跟踪。
-- 博客：可以输出的文章，github.io
-
+- Public Repository
+  - 博客：可以输出的文章，github.io
+  - 项目管理：利用Project看板系统，进行统筹管理、进度跟踪。
+  
+- Private Repository
+  - 反省日记：每日反省日记
+  - 反省报告：周报、月报、季报
+  - 读书卡片：利用可以方便private/public切换。
+  
 ### 为知笔记
+
+#### 1. 特点
+- 跨平台：win，mac
+- 跨设备：电脑，手机
+
+#### 2. 应用场景 
+- 隐私信息记录： 账号密码，个人信息memo等。
+- 特别说明：慢慢减少应用场景。
+
+### Excel 效率工具
+
+## 文件管理
 
 ### Zotero
 
-### Excel 效率工具
+#### 1. 特点
+#### 2. 应用场景 
+
+### 百度云
+
+#### 1. 特点
+#### 2. 应用场景 
 
 ## 日程管理
 ### Google calendar
@@ -50,5 +73,3 @@ Self-introspection should be practiced on a daily basis
 - 手机闹铃：更加重要临时要提醒的
 - 手环：起床（不影响他人），double confirm
 
-#### 1. 特点
-#### 2. 应用场景 
