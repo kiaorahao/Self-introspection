@@ -1,5 +1,6 @@
 # Self-introspection
-Self-introspection should be practiced on a daily basis
+Self-introspection should be practiced on a daily basis <br>
+曾子曰：“吾日三省吾身,为人谋而不忠乎？ 与朋友交而不信乎？ 传不习乎？” 
 
 # 个人信息管理平台和软件分工
 ## 笔记
@@ -49,24 +50,24 @@ Self-introspection should be practiced on a daily basis
 - 适合time-dependence数据
 
 #### 2. 应用场景 
-- 每日主要任务清单：ORID-Daily
-- 年度任务拆解：2019 OKR-Weekly<br>
+- 每日主要任务清单：*ORID-Daily*
+- 年度任务拆解：*2019 OKR-Weekly*<br>
 计划2019年迁移到github，因为：<br>
 1.不聚焦，密密麻麻不符合认知科学；改用github看板，任务进展一目了然；<br>
 2.不够灵活，无法追溯展开；改用github可以灵活使用外链互相关联。
-- 每日HR扫描：Reflect<br>
+- 每日HR扫描：*Reflect*<br>
 根据三省吾身法则，基于“人”去review事项。
-- 个人犯错记录：Issue log<br>
+- 个人犯错记录：*Issue log*<br>
 计划2019年迁移到github，参照写作principles 模式总分结构，总：principles；分，各个案例和具体反省。
-- 每天routine时间计划：Daily<br>
+- 每天routine时间计划：*Daily*<br>
 便于透视每天时间分布，优化时间、精力分配
-- 流水账：JR（journal record）<br>
+- 流水账：*JR*（journal record）<br>
 记录重要的财务开支，个人及家庭事件
 - 其他需要利用excel整理的资料
-  - 碎片时间听、读、看的资料清单Matrix：Rifle time Matrix
-  - 个人技能分析：ACH
-  - 日常时间开心和关键任务Matrix：Daily Devotion
-  - 新年感谢信清单：新年感谢信
+  - 碎片时间听、读、看的资料清单Matrix：*Rifle time Matrix*
+  - 个人技能分析：*ACH*
+  - 日常时间开心和关键任务Matrix：*Daily Devotion*
+  - 新年感谢信清单：*新年感谢信*
 
 ## 文件管理
 
@@ -86,7 +87,7 @@ Self-introspection should be practiced on a daily basis
 - 网络共享大资料方便
 - 存储空间大
 #### 2. 应用场景 
-- 个人资料车库，资料堆砌场所
+- 个人资料车库，资料堆砌场所, 手机照片定期上传清空
 - 得到等课程语音
 - 网络分享视频
 ## 日程管理
