@@ -1,7 +1,7 @@
 # Self-introspection
 Self-introspection should be practiced on a daily basis
 
-# 各平台和软件分工
+# 个人信息管理平台和软件分工
 ## 笔记
 ### Github
 #### 0. 使用频率 ★★★★★
