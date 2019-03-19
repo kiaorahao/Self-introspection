@@ -66,7 +66,7 @@ Self-introspection should be practiced on a daily basis <br>
 - 其他需要利用excel整理的资料
   - 碎片时间听、读、看的资料清单Matrix：*Rifle time Matrix*
   - 个人技能分析：*ACH*
-  - 日常时间开心和关键任务Matrix：*Daily Devotion*
+  - 日常时间开销和关键任务Matrix：*Daily Devotion*
   - 新年感谢信清单：*新年感谢信*
 
 ## 文件管理
@@ -111,6 +111,8 @@ Self-introspection should be practiced on a daily basis <br>
 ### Others
 - 手机闹铃：更加重要临时要提醒的
 - 手环：起床（不影响他人），double confirm
+
+
 
 # Changelog
 - V1.0-20190319：初稿
