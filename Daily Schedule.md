@@ -14,7 +14,7 @@ Summer: replace keep with morning running.
 
 Every morning reflection : From shallow to the deeper(structural to unstructural)
 
-- Github：**`Project`** update status
+- Github：**`Project`** update` status
 
 - Github：Daily introspection
 - Github：**`Principles`**
