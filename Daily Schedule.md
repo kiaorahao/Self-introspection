@@ -14,14 +14,16 @@ Summer: replace keep with morning running.
 
 Every morning reflection : From shallow to the deeper(structural to unstructural)
 
-- Github：**`Project`** update` status
-
+- Excel：[ORID-Daily](file:///Users/Harry/Documents/OneDrive/Hao/Annual PPC- 2019_v1.0.xlsx)
 - Github：Daily introspection
-- Github：**`Principles`**
-
-- Excel：**`ORID`** daily Task
-
-- (Optional)Excel：**`Reflect`**
+  - A: new writing: duplicate[0319_reflection](file:///Users/Harry/Documents/GitHub/Self-introspection/2019/Mar/0319_reflection.md)
+  - (or)B: write from repository [Daily Reflection](https://github.com/kiaorahao/Self-introspection/projects/5?add_cards_query=is%3Aopen)
+- Github：**`Project`** update status
+  - [Cognition](https://github.com/kiaorahao/Self-introspection/projects/4)
+    - (Optional) Github：[Principles](file:////Users/Harry/Documents/GitHub/Principles/principles.md)
+    - (Optional)Excel：[Reflect](file:///Users/Harry/Documents/OneDrive/Hao/Annual PPC- 2019_v1.0.xlsx)
+  - [Family](https://github.com/kiaorahao/Self-introspection/projects/3)
+  - [Finance](https://github.com/kiaorahao/Self-introspection/projects/2)
 
 
 
@@ -37,9 +39,9 @@ Every morning reflection : From shallow to the deeper(structural to unstructural
 
 \- Cryptocurrency
 
-\- 安人书院
+\- 安人书院(Time Confetti)
 
-\- 微信消息
+\- 微信消息(Time Confetti)
 
 \- google calendar
 
@@ -57,7 +59,7 @@ Every morning reflection : From shallow to the deeper(structural to unstructural
 
 - **Creative work**
   - blog 博客 github.io
-  - 读书卡片
+  - 读书卡片 [Reading_ToDo](https://github.com/kiaorahao/Cards/projects/1)
 
 - **Deep study**
 
@@ -73,7 +75,7 @@ Every morning reflection : From shallow to the deeper(structural to unstructural
 
 - Stock
 
-- 微信消息
+- 微信消息(Time Confetti)
 
 - google calendar
 
@@ -82,7 +84,6 @@ Every morning reflection : From shallow to the deeper(structural to unstructural
 ## Social connection:
 
 - After lunch:
-  - Excel:  `Reflect` take notes.
 
 - Business issues.
 
@@ -112,7 +113,7 @@ Every morning reflection : From shallow to the deeper(structural to unstructural
 
 - Stock
 
-- 微信消息
+- 微信消息(Time Confetti)
 
 
 
@@ -126,7 +127,7 @@ Every morning reflection : From shallow to the deeper(structural to unstructural
 
 - Cryptocurrency
 
-- 微信消息
+- 微信消息(Time Confetti)
 
 ## Family issues
 
