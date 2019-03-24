@@ -10,9 +10,7 @@
 
 Weekly: Yang Checklist
 
-- [Eric_notes](file:///Users/Harry/Documents/OneDrive/Yang/Eric_notes.xlsx)
-
-
+- [Eric_notes](file:////Users/Harry/Library/Mobile Documents/com~apple~CloudDocs/Documents/OneDrive/Yang/Eric_notes.xlsx )
 
 ---
 
