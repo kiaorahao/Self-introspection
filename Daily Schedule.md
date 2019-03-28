@@ -20,11 +20,12 @@ Every morning reflection : From shallow to the deeper(structural to unstructural
   - (or)B: write from repository [Daily Reflection](https://github.com/kiaorahao/Self-introspection/projects/5?add_cards_query=is%3Aopen)
 - Github：**`Project`** update status
   - [Cognition](https://github.com/kiaorahao/Self-introspection/projects/4)
+    - 发声练习[中国好声音](https://github.com/kiaorahao/Cards/issues/4)
     - (Optional) Github：[Principles](file:////Users/Harry/Documents/GitHub/Principles/principles.md)
     - (Optional)Excel：[Reflect](file:///Users/Harry/Documents/OneDrive/Hao/Annual PPC- 2019_v1.0.xlsx)
-    - blog 博客 github.io
-    - 读书卡片 [Reading_ToDo](https://github.com/kiaorahao/Cards/projects/1)
-    - 写作 [跟着阳志平老师学写作](https://github.com/kiaorahao/awesome_tools/projects/1?add_cards_query=is%3Aopen)
+    - (Optional)blog 博客 github.io
+    - (Optional)读书卡片 [Reading_ToDo](https://github.com/kiaorahao/Cards/projects/1)
+    - (Optional)写作 [跟着阳志平老师学写作](https://github.com/kiaorahao/awesome_tools/projects/1?add_cards_query=is%3Aopen)
   - [Family](https://github.com/kiaorahao/Self-introspection/projects/3)
   - [Finance](https://github.com/kiaorahao/Self-introspection/projects/2)
 
