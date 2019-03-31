@@ -17,16 +17,12 @@ Every morning reflection : From shallow to the deeper(structural to unstructural
 - Excel：[ORID-Daily](file:///Users/Harry/Documents/OneDrive/Hao/Annual PPC- 2019_v1.0.xlsx)
 - Github：Daily introspection
   - A: new writing: duplicate[0319_reflection](file:///Users/Harry/Documents/GitHub/Self-introspection/2019/Mar/0319_reflection.md)
-  - (or)B: write from repository [Daily Reflection](https://github.com/kiaorahao/Self-introspection/projects/5?add_cards_query=is%3Aopen)
+  - (or)B: write from repository [Daily Reflection](<https://github.com/users/kiaorahao/projects/4>)
 - Github：**`Project`** update status
-  - [Cognition](https://github.com/kiaorahao/Self-introspection/projects/4)
-    - 发声练习[中国好声音](https://github.com/kiaorahao/Cards/issues/4)
+  - [Info](https://github.com/users/kiaorahao/projects/1)
     - (Optional) Github：[Principles](file:////Users/Harry/Documents/GitHub/Principles/principles.md)
-    - (Optional)Excel：[Reflect](file:///Users/Harry/Documents/OneDrive/Hao/Annual PPC- 2019_v1.0.xlsx)
-    - (Optional)blog 博客 github.io
-    - (Optional)卡片 [Reading_ToDo](https://github.com/kiaorahao/Cards/projects/1)
-    - (Optional)写作 [跟着阳志平老师学写作](https://github.com/kiaorahao/awesome_tools/projects/1?add_cards_query=is%3Aopen)
-  - [Family](https://github.com/kiaorahao/Self-introspection/projects/3)
+    - (Optional)Excel：[Reflect_People](file:///Users/Harry/Documents/OneDrive/Hao/Annual PPC- 2019_v1.0.xlsx)
+  - [People](<https://github.com/users/kiaorahao/projects/2>)
   - [Finance](https://github.com/kiaorahao/Self-introspection/projects/2)
 
 
@@ -37,19 +33,22 @@ Every morning reflection : From shallow to the deeper(structural to unstructural
 
 ## Checklist:
 
-\- 运动群打卡
+- Money
 
-\- email
+  - Cryptocurrency
 
-\- Cryptocurrency
+- Info
 
-\- 安人书院(Time Confetti)
+  - 运动群打卡
+  - email
+  - flexibuzz
+  - google calendar
 
-\- 微信消息(Time Confetti)
+  - google keep
+  - 微信消息(Time Confetti)
 
-\- google calendar
-
-\- google keep
+- Study
+  - 安人书院(Time Confetti)
 
 
 
@@ -65,21 +64,18 @@ Every morning reflection : From shallow to the deeper(structural to unstructural
 
 ## Checklist:
 
-- Cryptocurrency
-
-- Stock
-
-- 微信消息(Time Confetti)
-
-- google calendar
-
-- 读书群打卡
-
-## Social connection:
-
-- After lunch:
-
-- Business issues.
+- Money
+  - Cryptocurrency
+  - Stock
+- Info
+  - 微信消息(Time Confetti)
+  - google calendar
+- Study
+  - 读书群打卡
+  - 日知为智(Time Confetti)
+  - 影视赏析(Time Confetti)
+- People
+  - Social connection
 
 
 
