@@ -23,7 +23,7 @@ Every morning reflection : From shallow to the deeper(structural to unstructural
     - (Optional) Github：[Principles](file:////Users/Harry/Documents/GitHub/Principles/principles.md)
     - (Optional)Excel：[Reflect_People](file:///Users/Harry/Documents/OneDrive/Hao/Annual PPC- 2019_v1.0.xlsx)
   - [People](<https://github.com/users/kiaorahao/projects/2>)
-  - [Finance](https://github.com/kiaorahao/Self-introspection/projects/2)
+  - [Money](<https://github.com/users/kiaorahao/projects/3>)
 
 
 
