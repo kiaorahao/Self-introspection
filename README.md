@@ -94,6 +94,7 @@ Self-introspection should be practiced on a daily basis <br>
 ### Google calendar
 #### 0. 使用频率 ★★★★★
 #### 1. 特点
+- 便笺，零碎想法(可利用语音转文字功能快速记录所思所想)
 - 日历式日常事物的时间管理
 - 每天重复routine工作
 - 结合手机可以提醒
