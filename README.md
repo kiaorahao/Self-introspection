@@ -3,7 +3,15 @@ Self-introspection should be practiced on a daily basis <br>
 > 曾子曰：“吾日三省吾身,为人谋而不忠乎？ 与朋友交而不信乎？ 传不习乎？” 
 
 # 个人信息管理平台和软件分工
+## 基本原则
+
+- 抱大腿原则：尽可能选择大的软件和平台，确保大周期内可以平稳使用和迭代。
+- 尝鲜原则：关注比较新的动态，了解现有使用软件所不具有的功能，利用大脑爱新鲜、爱比较，升级、优化、更深刻理解、整合自己的现有平台。比如notion。
+- 可迁移原则：迁移到另外平台的成本是多大。这样可以考虑哪些内容放到code哪些放到issues。
+- 灾备原则：如果平台崩溃了，或者本地电脑报废了，信息是否有back-up
+
 ## 笔记
+
 ### Github
 #### 0. 使用频率 ★★★★★
 #### 1. 特点
@@ -24,12 +32,16 @@ Self-introspection should be practiced on a daily basis <br>
 - Public Repository
   - 博客：可以输出的文章，github.io
   - 项目管理：利用Project看板系统，进行统筹管理、进度跟踪。
-  
+
 - Private Repository
   - 反省日记：每日反省日记
   - 反省报告：周报、月报、季报
   - 读书卡片：利用可以方便private/public切换。
-  
+
+#### 3. 缺点
+
+只能基于repository层面设置public/private，不能基于文件层面。  
+
 ### 为知笔记
 
 #### 0. 使用频率 ★★★☆☆
