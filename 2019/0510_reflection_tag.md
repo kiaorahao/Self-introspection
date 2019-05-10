@@ -1,6 +1,6 @@
 ## Tag
 
-audio writing  hack myself
+audio writing   hack myself
 
 我的标签是什么？奶爸，自我管理，数据分析，量化交易。另外一个，就是hack myself。
 现在的问题是，我目前没有一个清晰的可用的接口，或者是可见的能看到明确成长和迭代的接口。
