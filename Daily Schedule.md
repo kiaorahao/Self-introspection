@@ -189,7 +189,7 @@ Every morning reflection : From shallow to the deeper(structural to unstructural
 
 清晨：reflection，daily schedule and review。
 
-上午依然是学习黄金期：写作、信分、主题学习。
+上午依然是学习黄金期：慢写、信分、主题学习。
 
 午饭后打卡日课：发音，口语。
 
