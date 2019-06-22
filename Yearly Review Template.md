@@ -1,6 +1,6 @@
-# 2019
+# 2019 (* minutes)
 
-## Review of last Year
+## Review of last Year 
 
 
 
@@ -73,7 +73,7 @@
 
 
 
-# 2019H1
+# 2019H1 (* minutes)
 
 ## Review of last Half Year
 
@@ -148,7 +148,7 @@
 
 
 
-# 2019Q1
+# 2019Q1 (* minutes)
 
 ## Review of last Quarter
 
@@ -226,7 +226,7 @@
 
 
 
-# 2019Q2
+# 2019Q2 (* minutes)
 
 ## Review of last Quarter
 
@@ -299,7 +299,7 @@
 
 
 
-# 2019H2
+# 2019H2 (* minutes)
 
 ## Review of last Half Year
 
@@ -372,7 +372,7 @@
 
 
 
-# 2019Q3
+# 2019Q3 (* minutes)
 
 ## Review of last Quarter
 
@@ -443,7 +443,7 @@
 
 - 
 
-# 2019Q4
+# 2019Q4 (* minutes)
 
 ## Review of last Quarter
 

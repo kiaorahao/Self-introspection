@@ -1,4 +1,4 @@
-# 2019_June
+# 2019_June (* minutes)
 
 ## Review of last Month
 
@@ -71,7 +71,7 @@
 
 
 
-# 2019W25
+# 2019W25 (* minutes)
 
 ## Review of last week
 
@@ -149,7 +149,7 @@
 
 
 
-# 2019W26
+# 2019W26 (* minutes)
 
 ## Review of last week
 
@@ -220,7 +220,7 @@
 
 - 
 
-# 2019W27
+# 2019W27 (* minutes)
 
 ## Review of last week
 
@@ -291,7 +291,7 @@
 
 - 
 
-# 2019W28
+# 2019W28 (* minutes)
 
 ## Review of last week
 
